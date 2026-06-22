@@ -11,12 +11,14 @@ Apple Inspiration is a curated e-commerce showcase platform designed to provide 
 * **Styling**: Tailwind CSS
 * **State Management**: Zustand
 * **Animation**: Framer Motion
+* **Payments**: Stripe API
 * **Validation**: Joi
 * **Testing**: Vitest
 * **Deployment**: Vercel
 
 ## ✨ Key Features
 * **Modern UI/UX**: Apple-inspired minimalist design with smooth Framer Motion transitions.
+* **Stripe Integration**: Secure checkout flow integrated with Stripe API for handling payments.
 * **Accessibility (a11y)**: Fully accessible modals and interactive elements for a better user experience.
 * **State Management**: Robust global state handling using Zustand for cart and quiz logic.
 * **Optimized Performance**: Leverages Next.js Image component and SEO best practices for fast load times.
