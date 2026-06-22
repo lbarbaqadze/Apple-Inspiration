@@ -1,0 +1,290 @@
+{
+    "iphone": [
+        {
+            "id": "iphone-17-promax",
+            "name": "iPhone 17 Pro Max",
+            "specs": "e-SIM Only 256 GB White",
+            "price": "$1500",
+            "img": "/iphone-17-promax/iphone17promax-white1.webp"
+        },
+        {
+            "id": "iphone-17-promax-blue-titanium-256gb",
+            "name": "iPhone 17 Pro Max",
+            "specs": "e-SIM Only 256 GB Blue",
+            "price": "$1500",
+            "img": "/iphone-17-promax/iphone17promax-blue1.webp"
+        },
+        {
+            "id": "iphone-17-promax-orange-titanium-256gb",
+            "name": "iPhone 17 Pro Max",
+            "specs": "e-SIM Only 256 GB Orange",
+            "price": "$1500",
+            "img": "/iphone-17-promax/iphone17promax-orange1.webp"
+        },
+        {
+            "id": "iphone-17-base-black-256gb",
+            "name": "iPhone 17",
+            "specs": "128 GB Black",
+            "price": "$1299",
+            "img": "/iphone-17/iphone17-black1.webp"
+        },
+        {
+            "id": "iphone-17-base-blue-256gb",
+            "name": "iPhone 17",
+            "specs": "256 GB Blue",
+            "price": "$1399",
+            "img": "/iphone-17/iphone17-blue1.webp"
+        },
+        {
+            "id": "iphone-17-base-green-256gb",
+            "name": "iPhone 17",
+            "specs": "128 GB Green",
+            "price": "$1299",
+            "img": "/iphone-17/iphone17-green1.webp"
+        },
+        {
+            "id": "iphone-17-base-purple-256gb",
+            "name": "iPhone 17",
+            "specs": "128 GB Purple",
+            "price": "$1299",
+            "img": "/iphone-17/iphone17-purple1.webp"
+        },
+        {
+            "id": "iphone-17-air-black-512gb",
+            "name": "iPhone Air",
+            "specs": "256 GB Black",
+            "price": "$1159",
+            "img": "/iphone-air/iphone-air-black1.webp"
+        },
+        {
+            "id": "iphone-17-air-blue-512gb",
+            "name": "iPhone Air",
+            "specs": "256 GB Blue",
+            "price": "$1159",
+            "img": "/iphone-air/iphone-air-blue1.webp"
+        },
+        {
+            "id": "iphone-17-air-white-512gb",
+            "name": "iPhone Air",
+            "specs": "256 GB White",
+            "price": "$1159",
+            "img": "/iphone-air/iphone-air-white1.webp"
+        }
+    ],
+    "macbook": [
+        {
+            "id": "macbook-air-13-space-gray-512gb",
+            "name": "MacBook Air 13",
+            "specs": "13 inch 2026 A M5 Chip 10c",
+            "price": "$2550",
+            "img": "/macbook-image/macbook-air-13-1.webp"
+        },
+        {
+            "id": "macbook-air-15-silver-256gb",
+            "name": "MacBook Air 15",
+            "specs": "15.2 inch 2026 A M5 Chip",
+            "price": "$3550",
+            "img": "/macbook-image/macbook-air-15-1.webp"
+        },
+        {
+            "id": "macbook-air-15-midnight-256gb",
+            "name": "MacBook Air 15 Midnight",
+            "specs": "15.2 inch 2026 A M5 Chip 10c",
+            "price": "$2550",
+            "img": "/macbook-image/macbook-air15-midnight1.webp"
+        },
+        {
+            "id": "macbook-air-15-starlight-256gb",
+            "name": "MacBook Air 15 Starlight",
+            "specs": "15.2 inch 2026 A M5 Chip 10c",
+            "price": "$2550",
+            "img": "/macbook-image/macbook-air15-starlight1.webp"
+        },
+        {
+            "id": "macbook-neo-citrus-256gb",
+            "name": "MacBook Neo",
+            "specs": "13 inch A18 Pro Chip",
+            "price": "$2790",
+            "img": "/macbook-image/macbook-neo-citrus1.webp"
+        },
+        {
+            "id": "macbook-neo-indigo-256gb",
+            "name": "MacBook Neo Indigo",
+            "specs": "13 inch A18 Pro Chip",
+            "price": "$2790",
+            "img": "/macbook-image/macbook-neo-indigo1.webp"
+        },
+        {
+            "id": "macbook-neo-pink-256gb",
+            "name": "MacBook Neo Pink",
+            "specs": "13 inch A18 Pro Chip",
+            "price": "$2550",
+            "img": "/macbook-image/macbook-neo-pink1.webp"
+        },
+        {
+            "id": "macbook-neo-silver-256gb",
+            "name": "MacBook Neo Silver",
+            "specs": "13 inch A18 Pro Chip",
+            "price": "$2550",
+            "img": "/macbook-image/macbook-neo-silver1.webp"
+        },
+        {
+            "id": "macbook-pro-16-space-black-512gb",
+            "name": "MacBook Pro",
+            "specs": "16 inch M5 Pro Chip",
+            "price": "$3950",
+            "img": "/macbook-image/macbook-pro-black2.webp"
+        },
+        {
+            "id": "macbook-pro-16-space-silver-512gb",
+            "name": "MacBook Pro",
+            "specs": "16 inch M5 Pro Chip",
+            "price": "$3950",
+            "img": "/macbook-image/macbook-pro-silver1.webp"
+        }
+    ],
+    "iwatch": [
+        {
+            "id": "iwatch-ultra-2-green-loop-49mm-wi-fi-+-cellular",
+            "name": "Apple Watch Ultra 2",
+            "specs": "49mm Titanium • Green",
+            "price": "$799",
+            "img": "/iWatch/iwatch-ultra-green1.webp"
+        },
+        {
+            "id": "iwatch-ultra-2-black-loop-49mm-wi-fi-+-cellular",
+            "name": "Apple Watch Ultra 2",
+            "specs": "49mm Titanium • Black",
+            "price": "$799",
+            "img": "/iWatch/iwatch-ultra-black1.webp"
+        },
+        {
+            "id": "iwatch-series-11-jet-black-45mm",
+            "name": "Apple Watch Series 11",
+            "specs": "45mm Jet Black",
+            "price": "$429",
+            "img": "/iWatch/iwatch-series11-black1.webp"
+        },
+        {
+            "id": "iwatch-series-11-rose-gold-45mm-milanese-loop",
+            "name": "Apple Watch Series 11",
+            "specs": "45mm Rose Gold",
+            "price": "$429",
+            "img": "/iWatch/iwatch-series11-gold1.webp"
+        },
+        {
+            "id": "iwatch-series-11-silver-aluminium-41mm",
+            "name": "Apple Watch Series 11",
+            "specs": "41mm Silver Aluminum",
+            "price": "$399",
+            "img": "/iWatch/iwatch-series11-silver1.webp"
+        },
+        {
+            "id": "iwatch-series-11-titanium-gray-45mm-milanese-loop",
+            "name": "Apple Watch Series 11",
+            "specs": "41mm Titanium Gray",
+            "price": "$749",
+            "img": "/iWatch/iwatch-series11-gray1.webp"
+        },
+        {
+            "id": "watch-se-midnight-44mm",
+            "name": "Apple Watch SE",
+            "specs": "44mm Midnight Aluminum",
+            "price": "$279",
+            "img": "/iWatch/iwatch-se-midnight1.webp"
+        },
+        {
+            "id": "watch-se-starlights-44mm",
+            "name": "Apple Watch SE",
+            "specs": "40mm Starlight Aluminum",
+            "price": "$249",
+            "img": "/iWatch/iwatch-se-starlight1.webp"
+        },
+        {
+            "id": "iwatch-edition-nike-nike-sport-white-45mm",
+            "name": "Apple Watch Edition",
+            "specs": "45mm Nike Sport Band",
+            "price": "$499",
+            "img": "/iWatch/iwatch1-1.webp"
+        },
+        {
+            "id": "iwatch-edition-nike-nike-sports-white-45mm",
+            "name": "Apple Watch Sport",
+            "specs": "41mm Nike Loop",
+            "price": "$399",
+            "img": "/iWatch/iwatch1-2.webp"
+        }
+    ],
+    "ipad": [
+        {
+            "id": "ipad-10-9-starlight-64gb-(wi-fi)",
+            "name": "iPad 10.9\"",
+            "specs": "A14 Bionic • 64GB • Starlight",
+            "price": "$449",
+            "img": "/iPad/ipad1-starlight1.webp"
+        },
+        {
+            "id": "ipad-air-11-purple-256gb-(wi-fi)",
+            "name": "iPad Air 11\"",
+            "specs": "M2 Chip • 128GB • Purple",
+            "price": "$599",
+            "img": "/iPad/ipad2-purple1.webp"
+        },
+        {
+            "id": "ipad-air-13-blue-256gb",
+            "name": "iPad Air 13\"",
+            "specs": "M2 Chip • 128GB • Blue",
+            "price": "$799",
+            "img": "/iPad/ipad3-blue1.webp"
+        },
+        {
+            "id": "ipad-mini-space-gray-64gb-(wi-fi)",
+            "name": "iPad mini",
+            "specs": "A15 Bionic • 64GB • Space Gray",
+            "price": "$499",
+            "img": "/iPad/ipad4-black1.webp"
+        },
+        {
+            "id": "ipad-pro-11-space-black-1tb",
+            "name": "iPad Pro 11\"",
+            "specs": "Ultra Retina XDR • M4 Chip • Space Black",
+            "price": "$999",
+            "img": "/iPad/ipadpro-black1.webp"
+        },
+        {
+            "id": "ipad-pro-13-silver-512gb",
+            "name": "iPad Pro 13\"",
+            "specs": "Ultra Retina XDR • M4 Chip • Silver",
+            "price": "$1299",
+            "img": "/iPad/ipadpro-silver1.webp"
+        },
+        {
+            "id": "ipad-10-9-purple-64gb-(wi-fi)",
+            "name": "iPad 10.9\" (Cellular)",
+            "specs": "A14 Bionic • 256GB • Starlight",
+            "price": "$599",
+            "img": "/iPad/ipad1-starlight1.webp"
+        },
+        {
+            "id": "ipad-air-11-purple2-256gb-(wi-fi)",
+            "name": "iPad Air 11\" (Cellular)",
+            "specs": "M2 Chip • 256GB • Purple",
+            "price": "$749",
+            "img": "/iPad/ipad2-purple1.webp"
+        },
+        {
+            "id": "ipad-mini-space-gray-256gb-(wi-fi)",
+            "name": "iPad mini (Cellular)",
+            "specs": "A15 Bionic • 256GB • Space Gray",
+            "price": "$649",
+            "img": "/iPad/ipad4-black1.webp"
+        },
+        {
+            "id": "ipad-pro-11-space-black-256gb",
+            "name": "iPad Pro 13\" (Cellular)",
+            "specs": "M4 Chip • 1TB • Nano-Texture Glass",
+            "price": "$2299",
+            "img": "/iPad/ipadpro-black1.webp"
+        }
+    ]
+}

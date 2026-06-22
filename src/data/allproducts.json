@@ -1,0 +1,548 @@
+{
+    "iphone": [
+      {
+        "id": "iphone-17-promax",
+        "name": "iPhone 17 Pro Max",
+        "specs": "Titanium Series • 128GB / 256GB / 512GB / 1TB",
+        "price": "$1499",
+        "img": "/iphone-17-promax/iphone17promax-white1.webp",
+        "colors": [
+          {
+            "name": "White Titanium",
+            "hex": "#f4f3ef",
+            "images": [
+              "/iphone-17-promax/iphone17promax-white1.webp",
+              "/iphone-17-promax/iphone17promax-white2.webp",
+              "/iphone-17-promax/iphone17promax-white3.webp"
+            ]
+          },
+          {
+            "name": "Blue Titanium",
+            "hex": "#2e4250",
+            "images": [
+              "/iphone-17-promax/iphone17promax-blue1.webp",
+              "/iphone-17-promax/iphone17promax-blue2.webp",
+              "/iphone-17-promax/iphone17promax-blue3.webp"
+            ]
+          },
+          {
+            "name": "Orange Titanium",
+            "hex": "#cf7a3c",
+            "images": [
+              "/iphone-17-promax/iphone17promax-orange1.webp",
+              "/iphone-17-promax/iphone17promax-orange2.webp",
+              "/iphone-17-promax/iphone17promax-orange3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "128GB", "priceModifier": 0 },
+          { "size": "256GB", "priceModifier": 100 },
+          { "size": "512GB", "priceModifier": 250 },
+          { "size": "1TB", "priceModifier": 400 }
+        ]
+      },
+      {
+        "id": "iphone-17-base",
+        "name": "iPhone 17",
+        "specs": "Super Retina XDR • 128GB / 256GB / 1TB",
+        "price": "$1159",
+        "img": "/iphone-17/iphone17-black1.webp",
+        "colors": [
+          {
+            "name": "Black",
+            "hex": "#1c1d21",
+            "images": [
+              "/iphone-17/iphone17-black1.webp",
+              "/iphone-17/iphone17-black2.webp",
+              "/iphone-17/iphone17-black3.webp"
+            ]
+          },
+          {
+            "name": "Blue",
+            "hex": "#4b7bec",
+            "images": [
+              "/iphone-17/iphone17-blue1.webp",
+              "/iphone-17/iphone17-blue2.webp",
+              "/iphone-17/iphone17-blue3.webp"
+            ]
+          },
+          {
+            "name": "Green",
+            "hex": "#a3cb38",
+            "images": [
+              "/iphone-17/iphone17-green1.webp",
+              "/iphone-17/iphone17-green2.webp",
+              "/iphone-17/iphone17-green3.webp"
+            ]
+          },
+          {
+            "name": "Purple",
+            "hex": "#8854d0",
+            "images": [
+              "/iphone-17/iphone17-purple1.webp",
+              "/iphone-17/iphone17-purple2.webp",
+              "/iphone-17/iphone17-purple3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "128GB", "priceModifier": 0 },
+          { "size": "256GB", "priceModifier": 100 },
+          { "size": "1TB", "priceModifier": 400 }
+        ]
+      },
+      {
+        "id": "iphone-17-air",
+        "name": "iPhone 17 Air",
+        "specs": "Ultra Thin Design • 256GB / 512GB",
+        "price": "$1299",
+        "img": "/iphone-air/iphone-air-blue1.webp",
+        "colors": [
+          {
+            "name": "Blue",
+            "hex": "#74b9ff",
+            "images": [
+              "/iphone-air/iphone-air-blue1.webp",
+              "/iphone-air/iphone-air-blue2.webp",
+              "/iphone-air/iphone-air-blue3.webp"
+            ]
+          },
+          {
+            "name": "Black",
+            "hex": "#2d3436",
+            "images": [
+              "/iphone-air/iphone-air-black1.webp",
+              "/iphone-air/iphone-air-black2.webp",
+              "/iphone-air/iphone-air-black3.webp"
+            ]
+          },
+          {
+            "name": "White",
+            "hex": "#dfe6e9",
+            "images": [
+              "/iphone-air/iphone-air-white1.webp",
+              "/iphone-air/iphone-air-white2.webp",
+              "/iphone-air/iphone-air-white3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "256GB", "priceModifier": 0 },
+          { "size": "512GB", "priceModifier": 150 }
+        ]
+      }
+    ],
+    "macbook": [
+      {
+        "id": "macbook-pro-16",
+        "name": "MacBook Pro 16",
+        "specs": "Liquid Retina XDR • M5 Pro / Max • 512GB / 1TB",
+        "price": "$2499",
+        "img": "/macbook-image/macbook-pro-black1.webp",
+        "colors": [
+          {
+            "name": "Space Black",
+            "hex": "#1f2022",
+            "images": [
+              "/macbook-image/macbook-pro-black1.webp",
+              "/macbook-image/macbook-pro-black2.webp"
+            ]
+          },
+          {
+            "name": "Silver",
+            "hex": "#e3e4e5",
+            "images": [
+              "/macbook-image/macbook-pro-silver1.webp",
+              "/macbook-image/macbook-pro-silver2.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "512GB", "priceModifier": 0 },
+          { "size": "1TB", "priceModifier": 600 }
+        ]
+      },
+      {
+        "id": "macbook-air-13",
+        "name": "MacBook Air 13",
+        "specs": "Apple M5 Chip • 256GB / 512GB / 1TB",
+        "price": "$1099",
+        "img": "/macbook-image/macbook-air-13-1.webp",
+        "colors": [
+          {
+            "name": "Space Gray",
+            "hex": "#5d5e62",
+            "images": [
+              "/macbook-image/macbook-air-13-1.webp",
+              "/macbook-image/macbook-air-13-2.webp",
+              "/macbook-image/macbook-air-13-3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "256GB", "priceModifier": 0 },
+          { "size": "512GB", "priceModifier": 200 },
+          { "size": "1TB", "priceModifier": 400 }
+        ]
+      },
+      {
+        "id": "macbook-air-15",
+        "name": "MacBook Air 15",
+        "specs": "Apple M5 Chip • 256GB / 512GB / 1TB",
+        "price": "$1299",
+        "img": "/macbook-image/macbook-air15-midnight1.webp",
+        "colors": [
+          {
+            "name": "Midnight",
+            "hex": "#2e3641",
+            "images": [
+              "/macbook-image/macbook-air15-midnight1.webp",
+              "/macbook-image/macbook-air15-midnight2.webp",
+              "/macbook-image/macbook-air15-midnight3.webp"
+            ]
+          },
+          {
+            "name": "Starlight",
+            "hex": "#f0e4d3",
+            "images": [
+              "/macbook-image/macbook-air15-starlight1.webp",
+              "/macbook-image/macbook-air15-starlight2.webp",
+              "/macbook-image/macbook-air15-starlight3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "256GB", "priceModifier": 0 },
+          { "size": "512GB", "priceModifier": 200 },
+          { "size": "1TB", "priceModifier": 400 }
+        ]
+      },
+      {
+        "id": "macbook-neo",
+        "name": "MacBook Neo",
+        "specs": "A18 Pro Chip • 256GB / 512GB / 1TB",
+        "price": "$1199",
+        "img": "/macbook-image/macbook-neo-citrus1.webp",
+        "colors": [
+          {
+            "name": "Citrus",
+            "hex": "#fcd34d",
+            "images": [
+              "/macbook-image/macbook-neo-citrus1.webp",
+              "/macbook-image/macbook-neo-citrus2.webp",
+              "/macbook-image/macbook-neo-citrus3.webp"
+            ]
+          },
+          {
+            "name": "Indigo",
+            "hex": "#3f51b5",
+            "images": [
+              "/macbook-image/macbook-neo-indigo1.webp",
+              "/macbook-image/macbook-neo-indigo2.webp",
+              "/macbook-image/macbook-neo-indigo3.webp"
+            ]
+          },
+          {
+            "name": "Pink",
+            "hex": "#f472b6",
+            "images": [
+              "/macbook-image/macbook-neo-pink1.webp",
+              "/macbook-image/macbook-neo-pink2.webp",
+              "/macbook-image/macbook-neo-pink3.webp"
+            ]
+          },
+          {
+            "name": "Silver",
+            "hex": "#e4e4e7",
+            "images": [
+              "/macbook-image/macbook-neo-silver1.webp",
+              "/macbook-image/macbook-neo-silver2.webp",
+              "/macbook-image/macbook-neo-silver3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "256GB", "priceModifier": 0 },
+          { "size": "512GB", "priceModifier": 100 },
+          { "size": "1TB", "priceModifier": 300 }
+        ]
+      }
+    ],
+    "ipad": [
+      {
+        "id": "ipad-10-9",
+        "name": "iPad 10.9\"",
+        "specs": "Liquid Retina • 64GB / 256GB • Wi-Fi + Cellular",
+        "price": "$449",
+        "img": "/iPad/ipad1-starlight1.webp",
+        "colors": [
+          {
+            "name": "Starlight",
+            "hex": "#eee9df",
+            "images": [
+              "/iPad/ipad1-starlight1.webp",
+              "/iPad/ipad1-starlight2.webp",
+              "/iPad/ipad1-starlight3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "64GB (Wi-Fi)", "priceModifier": 0 },
+          { "size": "64GB (Cellular)", "priceModifier": 50 },
+          { "size": "256GB (Cellular)", "priceModifier": 150 }
+        ]
+      },
+      {
+        "id": "ipad-pro-11",
+        "name": "iPad Pro 11\"",
+        "specs": "Ultra Retina XDR • M4 Chip • 256GB / 512GB / 1TB",
+        "price": "$999",
+        "img": "/iPad/ipadpro-black1.webp",
+        "colors": [
+          {
+            "name": "Space Black",
+            "hex": "#222325",
+            "images": [
+              "/iPad/ipadpro-black1.webp",
+              "/iPad/ipadpro-black2.webp",
+              "/iPad/ipadpro-black3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "256GB", "priceModifier": 0 },
+          { "size": "512GB", "priceModifier": 200 },
+          { "size": "1TB", "priceModifier": 800 }
+        ]
+      },
+      {
+        "id": "ipad-pro-13",
+        "name": "iPad Pro 13\"",
+        "specs": "Ultra Retina XDR • M4 Chip • 256GB / 512GB / 1TB",
+        "price": "$1299",
+        "img": "/iPad/ipadpro-silver1.webp",
+        "colors": [
+          {
+            "name": "Silver",
+            "hex": "#e3e4e5",
+            "images": [
+              "/iPad/ipadpro-silver1.webp",
+              "/iPad/ipadpro-silver2.webp",
+              "/iPad/ipadpro-silver3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "256GB", "priceModifier": 0 },
+          { "size": "512GB", "priceModifier": 200 },
+          { "size": "1TB (Nano-Texture)", "priceModifier": 800 }
+        ]
+      },
+      {
+        "id": "ipad-air-11",
+        "name": "iPad Air 11\"",
+        "specs": "Apple M2 Chip • 128GB / 256GB",
+        "price": "$599",
+        "img": "/iPad/ipad2-purple1.webp",
+        "colors": [
+          {
+            "name": "Purple",
+            "hex": "#d1c4e9",
+            "images": [
+              "/iPad/ipad2-purple1.webp",
+              "/iPad/ipad2-purple2.webp",
+              "/iPad/ipad2-purple3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "128GB (Wi-Fi)", "priceModifier": 0 },
+          { "size": "128GB (Cellular)", "priceModifier": 100 },
+          { "size": "256GB (Wi-Fi)", "priceModifier": 150 }
+        ]
+      },
+      {
+        "id": "ipad-air-13",
+        "name": "iPad Air 13\"",
+        "specs": "Apple M2 Chip • 128GB / 256GB / 512GB",
+        "price": "$799",
+        "img": "/iPad/ipad3-blue1.webp",
+        "colors": [
+          {
+            "name": "Blue",
+            "hex": "#bbdefb",
+            "images": [
+              "/iPad/ipad3-blue1.webp",
+              "/iPad/ipad3-blue2.webp",
+              "/iPad/ipad3-blue3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "128GB", "priceModifier": 0 },
+          { "size": "256GB", "priceModifier": 100 },
+          { "size": "512GB", "priceModifier": 300 }
+        ]
+      },
+      {
+        "id": "ipad-mini",
+        "name": "iPad mini",
+        "specs": "A17 Pro Chip • 64GB / 128GB / 256GB",
+        "price": "$499",
+        "img": "/iPad/ipad4-black1.webp",
+        "colors": [
+          {
+            "name": "Space Gray",
+            "hex": "#555555",
+            "images": [
+              "/iPad/ipad4-black1.webp",
+              "/iPad/ipad4-black2.webp",
+              "/iPad/ipad4-black3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "64GB (Wi-Fi)", "priceModifier": 0 },
+          { "size": "128GB (Wi-Fi)", "priceModifier": 50 },
+          { "size": "256GB (Cellular)", "priceModifier": 150 }
+        ]
+      }
+    ],
+    "iwatch": [
+      {
+        "id": "iwatch-ultra-2",
+        "name": "Apple Watch Ultra 2",
+        "specs": "49mm Titanium • Rugged Design",
+        "price": "$799",
+        "img": "/iWatch/iwatch-ultra-green1.webp",
+        "colors": [
+          {
+            "name": "Green Loop",
+            "hex": "#2ecc71",
+            "images": [
+              "/iWatch/iwatch-ultra-green1.webp",
+              "/iWatch/iwatch-ultra-green2.webp",
+              "/iWatch/iwatch-ultra-green3.webp"
+            ]
+          },
+          {
+            "name": "Black Loop",
+            "hex": "#2c3e50",
+            "images": [
+              "/iWatch/iwatch-ultra-black1.webp",
+              "/iWatch/iwatch-ultra-black2.webp",
+              "/iWatch/iwatch-ultra-black3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "49mm Wi-Fi + Cellular", "priceModifier": 0 }
+        ]
+      },
+      {
+        "id": "iwatch-series-11",
+        "name": "Apple Watch Series 11",
+        "specs": "Aluminium / Titanium • Always-On Retina",
+        "price": "$399",
+        "img": "/iWatch/iwatch-series11-black1.webp",
+        "colors": [
+          {
+            "name": "Jet Black",
+            "hex": "#050505",
+            "images": [
+              "/iWatch/iwatch-series11-black1.webp",
+              "/iWatch/iwatch-series11-black2.webp",
+              "/iWatch/iwatch-series11-black3.webp"
+            ]
+          },
+          {
+            "name": "Rose Gold",
+            "hex": "#f3a683",
+            "images": [
+              "/iWatch/iwatch-series11-gold1.webp",
+              "/iWatch/iwatch-series11-gold2.webp",
+              "/iWatch/iwatch-series11-gold3.webp"
+            ]
+          },
+          {
+            "name": "Titanium Gray",
+            "hex": "#778ca3",
+            "images": [
+              "/iWatch/iwatch-series11-gray1.webp",
+              "/iWatch/iwatch-series11-gray2.webp",
+              "/iWatch/iwatch-series11-gray3.webp"
+            ]
+          },
+          {
+            "name": "Silver Aluminium",
+            "hex": "#d1d8e0",
+            "images": [
+              "/iWatch/iwatch-series11-silver1.webp",
+              "/iWatch/iwatch-series11-silver2.webp",
+              "/iWatch/iwatch-series11-silver3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "41mm", "priceModifier": 0 },
+          { "size": "45mm", "priceModifier": 30 },
+          { "size": "45mm Milanese Loop", "priceModifier": 100 }
+        ]
+      },
+      {
+        "id": "watch-se",
+        "name": "Apple Watch SE",
+        "specs": "Essential Features • Starlight / Midnight",
+        "price": "$249",
+        "img": "/iWatch/iwatch-se-starlight1.webp",
+        "colors": [
+          {
+            "name": "Starlight",
+            "hex": "#f7f1e3",
+            "images": [
+              "/iWatch/iwatch-se-starlight1.webp",
+              "/iWatch/iwatch-se-starlight2.webp",
+              "/iWatch/iwatch-se-starlight3.webp"
+            ]
+          },
+          {
+            "name": "Midnight",
+            "hex": "#1e272e",
+            "images": [
+              "/iWatch/iwatch-se-midnight1.webp",
+              "/iWatch/iwatch-se-midnight2.webp",
+              "/iWatch/iwatch-se-midnight3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "40mm", "priceModifier": 0 },
+          { "size": "44mm", "priceModifier": 30 },
+          { "size": "44mm Sport Loop", "priceModifier": 50 }
+        ]
+      },
+      {
+        "id": "iwatch-edition-nike",
+        "name": "Apple Watch Edition Nike",
+        "specs": "Nike Sport Band & Custom Faces",
+        "price": "$399",
+        "img": "/iWatch/iwatch1-1.webp",
+        "colors": [
+          {
+            "name": "Nike Sport White",
+            "hex": "#ffffff",
+            "images": [
+              "/iWatch/iwatch1-1.webp",
+              "/iWatch/iwatch1-2.webp",
+              "/iWatch/iwatch1-3.webp"
+            ]
+          }
+        ],
+        "storageOptions": [
+          { "size": "41mm", "priceModifier": 0 },
+          { "size": "45mm", "priceModifier": 100 }
+        ]
+      }
+    ]
+  }
