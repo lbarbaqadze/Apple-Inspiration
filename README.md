@@ -1,36 +1,24 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
-
-## Getting Started
-
-First, run the development server:
-
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Apple Inspiration Showcase
+A modern, high-performance e-commerce frontend inspired by Apple's design language, built with Next.js and TypeScript.
+🚀 Overview
+Apple Inspiration is a curated e-commerce showcase platform designed to provide a seamless user experience. It focuses on clean typography, intuitive navigation, and high-quality product presentation.
+🛠 Tech Stack
+Framework: Next.js 16 (App Router)
+Language: TypeScript
+Styling: Tailwind CSS
+State Management: Zustand
+Animation: Framer Motion
+Validation: Joi
+Testing: Vitest
+Deployment: Vercel
+✨ Key Features
+Modern UI/UX: Apple-inspired minimalist design with smooth Framer Motion transitions.
+Accessibility (a11y): Fully accessible modals and interactive elements for a better user experience.
+State Management: Robust global state handling using Zustand for cart and quiz logic.
+Optimized Performance: Leverages Next.js Image component and SEO best practices for fast load times.
+Interactive Quiz: Personalized Mac selection flow to guide users to the right product.
+⚙️ Getting Started
+Clone the repository: git clone [https://github.com/lbarbaqadze/Apple-Inspiration.git](https://github.com/lbarbaqadze/Apple-Inspiration.git)
+Install dependencies: npm install
+Set up environment variables: Add your Stripe keys in .env.local.
+Run the development server: npm run dev
