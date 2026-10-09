@@ -18,8 +18,8 @@ export default function ProfessionalFooter() {
             </p>
             <div className="flex flex-col gap-1">
               <span className="text-[10px] font-bold uppercase tracking-widest text-neutral-400">Inquiries</span>
-              <a href="mailto:support@ispace.ge" className="text-sm text-neutral-900 font-medium hover:text-neutral-500 transition-colors">
-                support@ispace.ge
+              <a href="" className="text-sm text-neutral-900 font-medium hover:text-neutral-500 transition-colors">
+                demo@appleinspiration.ge
               </a>
             </div>
           </div>
